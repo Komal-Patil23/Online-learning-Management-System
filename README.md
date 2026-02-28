@@ -1,1 +1,14 @@
-# Online-learning-Management-System
+
+# Professional MERN LMS
+
+## Backend
+cd backend
+npm install
+npm start
+
+## Frontend
+cd frontend
+npm install
+npm start
+
+Update .env with MongoDB, Stripe, Cloudinary keys.
