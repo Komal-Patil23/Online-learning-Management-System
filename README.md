@@ -1,5 +1,5 @@
 
-# Professional MERN LMS
+# Online Learning Management System
 
 ## Backend
 cd backend
